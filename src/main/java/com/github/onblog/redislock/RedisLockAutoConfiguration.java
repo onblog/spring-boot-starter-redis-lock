@@ -1,4 +1,4 @@
-package cn.yueshutong.redislock;
+package com.github.onblog.redislock;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplication;

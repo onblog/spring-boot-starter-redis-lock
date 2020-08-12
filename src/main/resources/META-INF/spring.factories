@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  cn.yueshutong.redislock.RedisLockAutoConfiguration
+  com.github.onblog.redislock.RedisLockAutoConfiguration

@@ -1,4 +1,4 @@
-package cn.yueshutong.redislock;
+package com.github.onblog.redislock;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
